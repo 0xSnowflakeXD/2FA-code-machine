@@ -30,5 +30,5 @@ Copy this code to your web:
  }
 </script>
 ```
-##Thanks for use
+## Thanks for use
 ColdSnow2 - Discord: MyCoolestDay123#2436
