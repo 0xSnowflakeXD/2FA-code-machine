@@ -1,5 +1,6 @@
 ## 2FA code machine
-There is another version of Google Authenticator, but code is more hard. Sorry if it take your time, but this is my final way.
+Also called 5 Step Seting Up Authenticator
+There is another version of Google Authenticator, but code generated is more hard. Sorry if it take your time, but this is my final way.
 <br>
 ## What it can do?
 1. Enable 2FA
@@ -30,5 +31,7 @@ Copy this code to your web:
  }
 </script>
 ```
+## Registration
+Copyright © 2021 by ColdSnow2 2FA 5 Step-Authenticator®
 ## Thanks for use
 ColdSnow2 - Discord: MyCoolestDay123#2436
