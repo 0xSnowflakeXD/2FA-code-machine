@@ -31,6 +31,7 @@ Copy this code to your web:
  }
 </script>
 ```
+Wanna see current code? Sorry, we are working in progress
 ## Registration
 Copyright © 2021 by ColdSnow2 2FA 5 Step-Authenticator®
 ## Thanks for use
