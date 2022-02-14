@@ -1,5 +1,5 @@
 ## 2FA code machine
-Also called 5 Step Seting Up Authenticator
+Also called 5 Step Seting Up Authenticator<br>
 There is another version of Google Authenticator, but code generated is more hard. Sorry if it take your time, but this is my final way.
 <br>
 ## What it can do?
